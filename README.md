@@ -1,6 +1,3 @@
-# tahesha.github.io
-
-
 # Hi there! I'm Tahesha!
 
 Welcome to my GitHub page! I'm a passionate full-stack web developer with a strong background in front-end and back-end development. Here, you'll find a collection of my projects that showcase my coding skills and expertise in web development.
