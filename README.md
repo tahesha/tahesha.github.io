@@ -19,9 +19,9 @@ I'm deeply passionate about building elegant and efficient web solutions that de
 
 Here are a few projects that highlight my skills and expertise:
 
-1. Guess The Number [Project 1 Name](link): Brief description of the project.
-2. Simple To Do List (http://127.0.0.1:3000/index.html) [Project 2 Name](link): Brief description of the project.
-3. [Project 3 Name](link): Brief description of the project.
+1.[Tahesha's Guess The Number Game](http://127.0.0.1:3000/index.html "Tahesha's First Game"): A classic number guessing game where players try to guess a randomly generated number within a specified range.
+2.[Simple To Do List App](http://127.0.0.1:3000/index.html): A minimalist task management app that allows users to add tasks to a list, helping them stay organized and focused on their goals.
+
    
 
 
@@ -31,6 +31,3 @@ I'm always eager to collaborate on exciting projects or discuss new ideas. Feel 
 
 Let's build something amazing together! 💻🚀
 
----
-
-Feel free to customize this template with your own information, projects, and contributions. You can also include additional sections or modify the existing ones to better reflect your skills and experiences. Good luck with your GitHub webpage!
