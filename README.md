@@ -16,7 +16,7 @@ I'm deeply passionate about building elegant and efficient web solutions that de
 
 Here are a few projects that highlight my skills and expertise:
 
-1.[Tahesha's Guess The Number Game]([http://127.0.0.1:3000/index.html](https://numberguessgameone.netlify.app) "Tahesha's First Game"): A classic number guessing game where players try to guess a randomly generated number within a specified range.
+1.[Tahesha's Guess The Number Game](https://numberguessgameone.netlify.app) "Tahesha's First Game"): A classic number guessing game where players try to guess a randomly generated number within a specified range.
 
 2.[Simple To Do List App](http://127.0.0.1:3000/index.html): A minimalist task management app that allows users to add tasks to a list, helping them stay organized and focused on their goals.
 
